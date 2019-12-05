@@ -15,6 +15,7 @@
 		2072D2DB2398CD4000E3E7CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2072D2D92398CD4000E3E7CF /* LaunchScreen.storyboard */; };
 		2072D2E62398CD4000E3E7CF /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2072D2E52398CD4000E3E7CF /* GitDemoTests.swift */; };
 		2072D2F12398CD4100E3E7CF /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2072D2F02398CD4100E3E7CF /* GitDemoUITests.swift */; };
+		2072D2FF2398F42F00E3E7CF /* DDW1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2072D2FE2398F42F00E3E7CF /* DDW1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2072D2EC2398CD4100E3E7CF /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2072D2F02398CD4100E3E7CF /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		2072D2F22398CD4100E3E7CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2072D2FE2398F42F00E3E7CF /* DDW1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DDW1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2072D2D72398CD4000E3E7CF /* Assets.xcassets */,
 				2072D2D92398CD4000E3E7CF /* LaunchScreen.storyboard */,
 				2072D2DC2398CD4000E3E7CF /* Info.plist */,
+				2072D2FE2398F42F00E3E7CF /* DDW1ViewController.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				2072D2D32398CD2E00E3E7CF /* ViewController.swift in Sources */,
 				2072D2CF2398CD2E00E3E7CF /* AppDelegate.swift in Sources */,
+				2072D2FF2398F42F00E3E7CF /* DDW1ViewController.swift in Sources */,
 				2072D2D12398CD2E00E3E7CF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
