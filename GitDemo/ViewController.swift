@@ -12,9 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("haha")
-        print("ccc")
-        print("shangchuan")
+        print("chushihua")
         // Do any additional setup after loading the view.
     }
 
